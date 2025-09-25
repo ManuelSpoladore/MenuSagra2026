@@ -9,7 +9,7 @@ import lumache from "../assets/Piatti/Lumache.jpg";
 export default function Specialita() {
   return (
     <div className="mx-4 mt-10 md:px-[100px]">
-      <h2 className="text-4xl md:text-5xl mb-8 ">Specialità</h2>
+      <h2 className="text-4xl md:text-4xl mb-8 ">Specialità</h2>
 
       {/* Contenitore responsive */}
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
@@ -22,7 +22,7 @@ export default function Specialita() {
           />
           <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/30 to-transparent hover:scale-105 transition-transform duration-300" />
           <div className="absolute bottom-4 left-4 text-white text-3xl  hover:scale-105 transition-transform duration-300">
-            <p className="text-3xl">Baccalà</p>
+           Baccalà
           </div>
         </div>
 
@@ -34,7 +34,7 @@ export default function Specialita() {
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/30 to-transparent hover:scale-105 transition-transform duration-300" />
-          <div className="absolute bottom-4 left-4 text-white text-lg font-semibold hover:scale-105 transition-transform duration-300">
+          <div className="absolute bottom-4 left-4 text-white text-3xl font-semibold hover:scale-105 transition-transform duration-300">
             Lumache con polenta
           </div>
         </div>
@@ -47,7 +47,7 @@ export default function Specialita() {
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/30 to-transparent hover:scale-105 transition-transform duration-300" />
-          <div className="absolute bottom-4 left-4 text-white text-lg font-semibold hover:scale-105 transition-transform duration-300">
+          <div className="absolute bottom-4 left-4 text-white text-3xl font-semibold hover:scale-105 transition-transform duration-300">
             Capriolo con polenta
           </div>
         </div>
@@ -60,7 +60,7 @@ export default function Specialita() {
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/30 to-transparent hover:scale-105 transition-transform duration-300" />
-          <div className="absolute bottom-4 left-4 text-white text-lg font-semibold hover:scale-105 transition-transform duration-300">
+          <div className="absolute bottom-4 left-4 text-white text-3xl font-semibold hover:scale-105 transition-transform duration-300">
             Frico con polenta
           </div>
         </div>
@@ -72,7 +72,7 @@ export default function Specialita() {
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/30 to-transparent hover:scale-105 transition-transform duration-300" />
-          <div className="absolute bottom-4 left-4 text-white text-lg font-semibold hover:scale-105 transition-transform duration-300">
+          <div className="absolute bottom-4 left-4 text-white text-3xl font-semibold hover:scale-105 transition-transform duration-300">
             Gnocchi con sugo di capriolo
           </div>
         </div>
@@ -84,7 +84,7 @@ export default function Specialita() {
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/30 to-transparent hover:scale-105 transition-transform duration-300" />
-          <div className="absolute bottom-4 left-4 text-white text-lg font-semibold hover:scale-105 transition-transform duration-300">
+          <div className="absolute bottom-4 left-4 text-white text-3xl font-semibold hover:scale-105 transition-transform duration-300">
             Trippe
           </div>
         </div>
