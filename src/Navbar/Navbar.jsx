@@ -16,7 +16,7 @@ export default function Navbar() {
         />
         
         {/* Titolo centrato */}
-        <span className="text-2xl font-semibold dark:text-white font-abril absolute left-1/2 transform -translate-x-1/2 text-center">
+        <span className="text-2xl font-semibold text-white font-abril absolute left-1/2 transform -translate-x-1/2 text-center">
           Menù Sagra di Ligugnana
         </span>
 
