@@ -21,8 +21,8 @@ export default function Specialita() {
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/30 to-transparent hover:scale-105 transition-transform duration-300" />
-          <div className="absolute bottom-4 left-4 text-white text-lg font-semibold hover:scale-105 transition-transform duration-300">
-            Baccalà 
+          <div className="absolute bottom-4 left-4 text-white text-3xl  hover:scale-105 transition-transform duration-300">
+            <p className="text-3xl">Baccalà</p>
           </div>
         </div>
 

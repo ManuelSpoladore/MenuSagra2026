@@ -2,19 +2,19 @@ import React from "react";
 
 export default function Footer() {
   return (
-    <footer className="bg-white dark:bg-gray-900">
+    <footer className="bg-gray-900">
       <div className="mx-auto max-w-screen-xl px-4 pt-7 pb-8 sm:px-6 lg:px-8">
         <div className="text-center">
-          <h2 className="text-3xl font-extrabold text-gray-900 sm:text-5xl dark:text-white">
+          <h2 className="text-3xl font-extrabold  sm:text-5xl text-white">
             Ti aspettiamo
           </h2>
 
-          <p className="mx-auto mt-4 max-w-sm text-gray-500 dark:text-gray-400">
+          <p className="mx-auto mt-4 max-w-sm  text-gray-400">
             Nel mentre seguici sui Social
           </p>
         </div>
 
-        <div className=" border-gray-100 flex justify-center items-center md:mt-5 dark:border-gray-800">
+        <div className=" flex justify-center items-center md:mt-5border-gray-800">
           <ul className="mt-8 flex justify-center gap-6 sm:mt-0 ">
             <li>
               <a
