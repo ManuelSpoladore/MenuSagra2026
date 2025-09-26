@@ -15,7 +15,7 @@ export default function Date() {
         </div>
 
         {/* Div Venerdì */}
-        <div className="bg-orange-400 rounded-2xl w-fit mx-auto lg:w-auto lg:mx-0 border-4 border-white">
+        <div className="bg-orange-400 rounded-2xl w-fit mx-auto lg:w-auto lg:mx-0 border-4 border-white text-white">
           <p className="pl-10 pt-3">Venerdì</p>
           <div className="flex items-center">
             <p className="text-[50px] pl-10">10</p>
@@ -29,7 +29,7 @@ export default function Date() {
         </div>
 
         {/* Div Sabato */}
-        <div className="bg-orange-400 rounded-2xl w-fit mx-auto lg:w-auto lg:mx-0 border-4 border-white">
+        <div className="bg-orange-400 rounded-2xl w-fit mx-auto lg:w-auto lg:mx-0 border-4 border-white text-white">
           <p className="pl-10 pt-3">Sabato</p>
           <div className="flex items-center">
             <p className="text-[50px] pl-10">11</p>
@@ -43,7 +43,7 @@ export default function Date() {
         </div>
 
         {/* Div Domenica */}
-        <div className="bg-orange-400 rounded-2xl w-fit mx-auto lg:w-auto lg:mx-0 border-4 border-white">
+        <div className="bg-orange-400 rounded-2xl w-fit mx-auto lg:w-auto lg:mx-0 border-4 border-white text-white">
           <p className="pl-10 pt-3">Domenica</p>
           <div className="flex items-center">
             <p className="text-[50px] pl-10">12</p>

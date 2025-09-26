@@ -15,10 +15,10 @@ export default function Menu() {
 
       {/* Sezione Primi */}
       <div className="mb-8">
-        <h3 className="text-2xl mb-4">Primi</h3>
+        <h3 className="text-2xl mb-4 underline underline">Primi</h3>
         <div className="flex flex-col md:flex-row items-stretch md:gap-5">
           {/* Elenco Primi */}
-          <ul className="flex-1 list-none pl-0 space-y-8 pb-2 md:order-2 uppercase">
+          <ul className="flex-1 list-none pl-0 space-y-8 pb-2 md:order-2 uppercase font-family">
             <li>
               Gnocchi di patate al sugo di capriolo
             </li>
@@ -41,10 +41,10 @@ export default function Menu() {
 
       {/* Sezione Secondi */}
       <div className="mb-8">
-        <h3 className="text-2xl mb-4">Secondi</h3>
+        <h3 className="text-2xl mb-4 underline">Secondi</h3>
         <div className="flex flex-col md:flex-row items-stretch gap-5">
           {/* Elenco Secondi */}
-          <ul className="flex-1 list-none pl-0 space-y-8 pb-2 md:order-1 uppercase">
+          <ul className="flex-1 list-none pl-0 space-y-8 pb-2 md:order-1 uppercase font-family">
             <li>Misto salsiccia-pollo con polenta</li>
             <li>Pollo con polenta</li>
             <li>Salsiccia con polenta</li>
@@ -62,10 +62,10 @@ export default function Menu() {
 
         {/* Sezione Contorni */}
         <div className="mb-8">
-          <h3 className="text-2xl mb-4">Contorni</h3>
+          <h3 className="text-2xl mb-4 underline">Contorni</h3>
           <div className="flex flex-col md:flex-row items-stretch gap-5">
             {/* Elenco Contorni */}
-            <ul className="flex-1 list-none space-y-8 pb-2 md:order-2 uppercase">
+            <ul className="flex-1 list-none space-y-8 pb-2 md:order-2 uppercase font-family">
               <li>Funghi misto bosco con porcini e polenta</li>
               <li>Frico con polenta</li>
               <li>Patatine fritte</li>
@@ -82,10 +82,10 @@ export default function Menu() {
 
         {/* Sezione Dolci */}
         <div className="mb-8">
-          <h3 className="text-2xl mb-4">Dolci</h3>
+          <h3 className="text-2xl mb-4 underline">Dolci</h3>
           <div className="flex flex-col md:flex-row items-stretch gap-5">
             {/* Elenco Dolci */}
-            <ul className="flex-1 list-none space-y-8 pb-2 md:order-1 uppercase">
+            <ul className="flex-1 list-none space-y-8 pb-2 md:order-1 uppercase font-family">
               <li>Torta di Frutta</li>
               <li>Torta di mandorle</li>
             </ul>
@@ -101,10 +101,10 @@ export default function Menu() {
 
         {/* Sezione Bevande */}
         <div className="mb-8">
-          <h3 className="text-2xl mb-4">Bevande</h3>
+          <h3 className="text-2xl mb-4 underline">Bevande</h3>
           <div className="flex flex-col md:flex-row items-stretch gap-5">
             {/* Elenco Bevande */}
-            <ul className=" pb-2 flex-1 list-none space-y-8 md:order-2 uppercase">
+            <ul className=" pb-2 flex-1 list-none space-y-8 md:order-2 uppercase font-family">
               <li>Bicchiere di vino Merlot o Friulano o Cabernet</li>
               <li>Quartino di vino cabaret</li>
               <li>Quartino di vino Merlot o Friulano</li>
