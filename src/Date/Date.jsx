@@ -18,12 +18,12 @@ export default function Date() {
         <div className="bg-orange-400 rounded-2xl w-fit mx-auto lg:w-auto lg:mx-0 border-4 border-white text-white">
           <p className="pl-10 pt-3">Venerdì</p>
           <div className="flex items-center">
-            <p className="text-[50px] pl-10">10</p>
+            <p className="text-[50px] pl-10">9</p>
             <span
               className="inline-block pl-6 pb-4"
               style={{ writingMode: "vertical-rl", textOrientation: "mixed" }}
             >
-              Ottobre 2025
+              Ottobre 2026
             </span>
           </div>
         </div>
@@ -32,12 +32,12 @@ export default function Date() {
         <div className="bg-orange-400 rounded-2xl w-fit mx-auto lg:w-auto lg:mx-0 border-4 border-white text-white">
           <p className="pl-10 pt-3">Sabato</p>
           <div className="flex items-center">
-            <p className="text-[50px] pl-10">11</p>
+            <p className="text-[50px] pl-10">10</p>
             <span
               className="inline-block pl-6 pb-4 "
               style={{ writingMode: "vertical-rl", textOrientation: "mixed" }}
             >
-              Ottobre 2025
+              Ottobre 2026
             </span>
           </div>
         </div>
@@ -46,12 +46,12 @@ export default function Date() {
         <div className="bg-orange-400 rounded-2xl w-fit mx-auto lg:w-auto lg:mx-0 border-4 border-white text-white">
           <p className="pl-10 pt-3">Domenica</p>
           <div className="flex items-center">
-            <p className="text-[50px] pl-10">12</p>
+            <p className="text-[50px] pl-10">11</p>
             <span
               className="inline-block pl-6 pb-4"
               style={{ writingMode: "vertical-rl", textOrientation: "mixed" }}
             >
-              Ottobre 2025
+              Ottobre 2026
             </span>
           </div>
         </div>
